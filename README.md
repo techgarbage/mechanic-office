@@ -2,6 +2,7 @@
 Laravel Simple CRM for mechanical workbench
 
 Resources: 
+
 /****************************************     GENERAL     ************************************************************/
 https://laravel.com/				=>		Laravel Framework
 https://getbootstrap.com/			=>		Bootstrap Framework
